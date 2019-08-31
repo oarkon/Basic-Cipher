@@ -38,5 +38,5 @@ encrypt = (char) => {
 
 /*
 its just basic one , if u want to more complex u can use charcodes , 
-random numbers or schema about your cryptography and use it when u want to crypt something. oarkon 
+random numbers or make a schema about your cryptography and use it when u want to crypt something. oarkon 
 */
